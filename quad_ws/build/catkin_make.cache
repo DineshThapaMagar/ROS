@@ -1,2 +1,0 @@
-quad_navigation
--DCATKIN_DEVEL_PREFIX=/home/user/ROS_Beginner/quad_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/ROS_Beginner/quad_ws/install -G Unix Makefiles
