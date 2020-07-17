@@ -1,0 +1,8 @@
+prefix=/home/user/ROS_Beginner/quad_ws/devel
+
+Name: quadrotor_navigation
+Description: Description of quadrotor_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
